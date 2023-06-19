@@ -2,11 +2,11 @@
 
 ## Hello there, I am farhan
 
-- ## Live Site Link: 
+- ## Live Site Link: https://cars-doctor-2e241.web.app/
 
-- **Client Side Link:** 
+- **Client Side Link:** https://github.com/FarhanShahriar11/car-doctor-client
 
-- **Server Side Link:** 
+- **Server Side Link:**https://github.com/FarhanShahriar11/car-doctor-server 
 
 ## In this assignment: 
 - I have used for designing CSS popular framework 'Tailwind' and 'DaisyUi'.
